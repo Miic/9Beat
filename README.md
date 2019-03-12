@@ -32,8 +32,9 @@ Want to contribute? Great! Feel free to fork!
 
 ### Todos
 
- - Write MORE Tests
  - Add Night Mode
+ - Clean up Menu interface
+ - Update to latest Unity engine
 
 License
 ----
