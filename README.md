@@ -47,6 +47,6 @@ MIT
 
 
    [Unity]: <https://unity3d.com/>
-   [osu]: <https://osu.ppy.sh/home>
+   [osu!]: <https://osu.ppy.sh/home>
 
 [![](https://i.gyazo.com/1797bca7f71522018502e112d4988001.png)](https://nodesource.com/products/nsolid)
