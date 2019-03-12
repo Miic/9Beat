@@ -1,6 +1,11 @@
 # 9Beat
 
-9Beat is a basic rhythm game centered around tapping to the beat. This game was written at Hackpoly Hackathon 2018. Pre-mapped songs will play rhythmic patterns you have to match.
+9Beat is a basic rhythm game centered around tapping to the beat. Pre-mapped songs will play rhythmic patterns you have to match.
+
+This game was written in 24 hours at HackPoly Hackathon 2018 by
+[Jason Wu](https://github.com/uosJad)
+[Michael Cruz](https://github.com/Miic)
+[Kathleen Phan](https://github.com/KathyPhan)
 
 ## How to play
 
