@@ -1,7 +1,5 @@
 # 9Beat
 
-[![](https://i.gyazo.com/1797bca7f71522018502e112d4988001.png)](https://nodesource.com/products/nsolid)
-
 9Beat is a basic rhythm game centered around tapping to the beat. This game was written at Hackpoly Hackathon 2018. Pre-mapped songs will play rhythmic patterns you have to match.
 
 # How to Play
@@ -51,3 +49,4 @@ MIT
    [Unity]: <https://unity3d.com/>
    [osu]: <https://osu.ppy.sh/home>
 
+[![](https://i.gyazo.com/1797bca7f71522018502e112d4988001.png)](https://nodesource.com/products/nsolid)
