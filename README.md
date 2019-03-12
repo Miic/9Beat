@@ -2,7 +2,7 @@
 
 9Beat is a basic rhythm game centered around tapping to the beat. This game was written at Hackpoly Hackathon 2018. Pre-mapped songs will play rhythmic patterns you have to match.
 
-# How to Play
+## How to play
 
   - You will be presented with a 3x3 grid which will have incoming squares.
   - Simple tap the relative key on the numpad when the incoming square matches the edges of the primary square
